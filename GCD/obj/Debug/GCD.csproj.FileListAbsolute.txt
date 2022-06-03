@@ -6,3 +6,11 @@ C:\Users\admin\Desktop\Vikram\GCD\GCD\obj\Debug\GCD.csproj.SuggestedBindingRedir
 C:\Users\admin\Desktop\Vikram\GCD\GCD\obj\Debug\GCD.csproj.CoreCompileInputs.cache
 C:\Users\admin\Desktop\Vikram\GCD\GCD\obj\Debug\GCD.exe
 C:\Users\admin\Desktop\Vikram\GCD\GCD\obj\Debug\GCD.pdb
+C:\Users\admin\Desktop\Vikram\Git\GCD\bin\Debug\GCD.exe.config
+C:\Users\admin\Desktop\Vikram\Git\GCD\bin\Debug\GCD.exe
+C:\Users\admin\Desktop\Vikram\Git\GCD\bin\Debug\GCD.pdb
+C:\Users\admin\Desktop\Vikram\Git\GCD\obj\Debug\GCD.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\Vikram\Git\GCD\obj\Debug\GCD.csproj.SuggestedBindingRedirects.cache
+C:\Users\admin\Desktop\Vikram\Git\GCD\obj\Debug\GCD.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Vikram\Git\GCD\obj\Debug\GCD.exe
+C:\Users\admin\Desktop\Vikram\Git\GCD\obj\Debug\GCD.pdb

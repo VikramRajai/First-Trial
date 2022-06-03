@@ -20,7 +20,7 @@ class RecExercise12
         Console.ReadLine();
 
     }
-
+    //hiiii howww
    static long gcd(long n1, long n2)
     {
         if (n2 == 0)
